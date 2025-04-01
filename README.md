@@ -6,8 +6,12 @@ This ASL Detector is a cutting-edge AI-powered application that uses computer vi
    <img src="https://github.com/AkramOM606/American-Sign-Language-Detection/assets/162604610/6945d009-8aa7-4bf7-99f8-9743662c5248" width="50%">
 </p>
 
+<p align="center">
+   <video src="ASL.mp4" width="50%" controls></video>
+</p>
+
 # Usage
-By default, when you launch app.py, the inference mode is active. It can also be manually activated in other modes by pressing “n”.
+By default, when you launch app.py, the inference mode is active. It can also be manually activated in other modes by pressing "n".
 
 <p align="center">
    <img src="https://github.com/AkramOM606/American-Sign-Language-Detection/assets/162604610/16ed949f-5aa8-4ed4-b49e-a7eb365c8923" width="60%">
@@ -74,8 +78,8 @@ If you wish to train the model on your dataset, follow these steps:
 
 1. Manual Key Points Data Capturing
 
-Activate the manual key point saving mode by pressing "k", which will be indicated as “MODE: Logging Key Point”.<br>
-If you press any uppercase letter from “A” to “Z”, the key points will be recorded and added to the “model/keypoint_classifier/keypoint.csv” file as demonstrated below.
+Activate the manual key point saving mode by pressing "k", which will be indicated as "MODE: Logging Key Point".<br>
+If you press any uppercase letter from "A" to "Z", the key points will be recorded and added to the "model/keypoint_classifier/keypoint.csv" file as demonstrated below.
 
 <p align="center">
    <img src="https://github.com/AkramOM606/American-Sign-Language-Detection/assets/162604610/e0393472-f7c6-41f7-b5a6-3814dc4b7044">
